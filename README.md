@@ -24,4 +24,6 @@ Run:
 ```bash
 git clone https://github.com/farazsaudagar/Git101
 ```
+## Time to test Git
 
+Enter anything here: 
